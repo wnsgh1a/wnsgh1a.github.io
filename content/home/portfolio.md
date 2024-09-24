@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: Data Structure
       tag: DS
-    - name: Algorithm
-      tag: Algorithm
+    - name: Database
+      tag: DB
     - name: AI
       tag: AI
 

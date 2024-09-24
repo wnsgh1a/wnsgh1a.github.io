@@ -10,6 +10,6 @@ main:
   - name: 이력내용
     url: about/
     weight: 20
-  -  name: 연락
-    url: call/
+  - name: 연락
+    url: contact/
     weight: 30

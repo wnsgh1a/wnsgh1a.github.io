@@ -4,9 +4,9 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 홈
+  - name: 홈페이지
     url: /
     weight: 10
-  - name: 이력
+  - name: 이력내용
     url: about/
     weight: 20

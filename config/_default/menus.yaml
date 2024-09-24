@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
     name: 연락
-    url: /
+    url: call/
     weight: 30

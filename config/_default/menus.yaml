@@ -10,6 +10,12 @@ main:
   - name: 이력내용
     url: about/
     weight: 20
-  - name: 연락
-    url: contact/
+  - name: 우리학교 커리큘럼
+    url: myschool/
     weight: 30
+  - name: 내가 배운 것들
+    url: study/
+    weight: 40
+  - name: 나에 대하여
+    url: contact/
+    weight: 50

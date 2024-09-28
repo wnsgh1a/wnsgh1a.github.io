@@ -9,9 +9,8 @@ sections:
       title : Blog
       text: |- 
         <br><span style="fint-size:95%">instagram: https://www.instagram.com/joooooooono/
-        </span><br>
-      text: |- 
-        <br><span style="fint-size:95%">Github:https://github.com/wnsgh1a/wnsgh1a.github.io
+
+        Github: https://github.com/wnsgh1a/wnsgh1a.github.io
         </span><br>
 
       #instagram: https://www.instagram.com/joooooooono/

@@ -29,8 +29,9 @@ experience:
     location: 전주
     date_start: '2022-03-02'
     date_end: '2022-06-20'
-    description: * C언어 기초
-        * 컴퓨팅사고와 인간
+    description: 
+      - C언어 기초
+      - 컴퓨팅사고와 인간
   - title: BEng Electronic Engineering
     company: University X
     company_url: ''
@@ -38,7 +39,8 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: My dissertation was on X
+    description: 
+      - My dissertation was on X
 
 design:
   columns: '1'

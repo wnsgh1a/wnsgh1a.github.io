@@ -8,21 +8,21 @@ sections:
     content:
       title : Blog
       text: |- 
-        <br><span style="fint-size:95%">블로그용 화면</span><br>
+        <br><span style="fint-size:95%">instagram: https://www.instagram.com/joooooooono/</span><br>
 
-      instagram: https://www.instagram.com/joooooooono/
-      phone: +82-10-2331-8958
-      address:
-        street: 전북대학교 참빛 1호관 712호
-        city: 전주시
-        region: 전라북도
-        postcode: '54896'
-        country: 대한민국
-        country_code: KO
-      coordinates:
-        latitude: '35.8507949'
-        longitude: '127.1263656'
-      directions: 
+      #instagram: https://www.instagram.com/joooooooono/
+      #phone: +82-10-2331-8958
+      #address:
+      #  street: 전북대학교 참빛 1호관 712호
+      #  city: 전주시
+      #  region: 전라북도
+      #  postcode: '54896'
+      #  country: 대한민국
+      #  country_code: KO
+      #coordinates:
+      #  latitude: '35.8507949'
+      #  longitude: '127.1263656'
+      #directions: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

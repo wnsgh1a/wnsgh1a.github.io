@@ -8,7 +8,8 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
+      text: |- 
+
       email: wnsgh1a@naver.com
       phone: +82-10-2331-8958
       address:

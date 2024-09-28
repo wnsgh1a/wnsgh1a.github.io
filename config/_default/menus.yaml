@@ -17,5 +17,11 @@ main:
     url: study/
     weight: 40
   - name: 나에 대하여
-    url: contact/
+    url: me/
     weight: 50
+  - name: 연락처
+    url: me/contact/
+    weight: 1
+  - name: 블로그
+    url: me/blog/
+    weight: 2

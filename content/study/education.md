@@ -32,7 +32,6 @@ experience:
     description: |2-
         * C언어 기초
         * 컴퓨팅사고와 인간
-
   - title: BEng Electronic Engineering
     company: University X
     company_url: ''

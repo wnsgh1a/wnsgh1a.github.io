@@ -6,7 +6,6 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
       text: |- 
 
       email: wnsgh1a@naver.com

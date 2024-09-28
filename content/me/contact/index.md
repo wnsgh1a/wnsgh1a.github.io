@@ -13,6 +13,10 @@ sections:
       title : Contact
       text: |- 
 
+      banner:
+        caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+        image: 'contact.jpg'
+
       email: wnsgh1a@naver.com
       phone: +82-10-2331-8958
       address:

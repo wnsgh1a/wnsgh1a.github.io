@@ -24,6 +24,6 @@ main:
     url: me/contact/
     weight: 1
   - parent: Me
-    name: 블로그
+    name: Blog
     url: me/blog/
     weight: 2

@@ -41,13 +41,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/joooooooono/
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+#  - icon: instagram
+#    icon_pack: fab
+#    link: https://www.instagram.com/joooooooono/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

@@ -11,6 +11,8 @@ sections:
         <br><span style="fint-size:95%">instagram: https://www.instagram.com/joooooooono/
 
         Github: https://github.com/wnsgh1a/wnsgh1a.github.io
+
+        Naver Blog: https://blog.naver.com/wnsgh1a
         </span><br>
 
       #instagram: https://www.instagram.com/joooooooono/

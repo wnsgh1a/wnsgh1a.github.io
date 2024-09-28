@@ -4,7 +4,7 @@ title: Contact
 type: landing
 
 sections:
-  - block: contact
+  - block: Blog
     content:
       title : Blog
       text: |- 

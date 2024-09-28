@@ -10,7 +10,7 @@ sections:
       text: |- 
         <br><span style="fint-size:95%">블로그용 화면</span><br>
 
-      email: wnsgh1a@naver.com
+      instagram: https://www.instagram.com/joooooooono/
       phone: +82-10-2331-8958
       address:
         street: 전북대학교 참빛 1호관 712호

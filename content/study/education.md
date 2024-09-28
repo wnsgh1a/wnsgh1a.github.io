@@ -29,8 +29,7 @@ experience:
     location: 전주
     date_start: '2022-03-02'
     date_end: '2022-06-20'
-    description:
-        * C언어 기초
+    description: * C언어 기초
         * 컴퓨팅사고와 인간
   - title: BEng Electronic Engineering
     company: University X

@@ -25,7 +25,7 @@ experience:
   - title: JBNU 2022-1학기
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    company_logo: https://www.jbnu.ac.kr/kor/images/227_9.jpg
     location: 전주
     date_start: '2022-03-02'
     date_end: '2022-06-20'

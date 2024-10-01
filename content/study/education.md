@@ -68,7 +68,7 @@ experience:
     company_logo: org-x
     location: 전주
     date_start: '2023-09-01'
-    date_end: '2022-12-22'
+    date_end: '2023-12-22'
     description: |2-
         * 알고리즘
         * 컴퓨터구조
@@ -80,7 +80,7 @@ experience:
     company_logo: org-x
     location: 전주
     date_start: '2024-03-04'
-    date_end: '2023-06-21'
+    date_end: '2024-06-21'
     description: |2-
         * 데이터베이스
         * 인공지능

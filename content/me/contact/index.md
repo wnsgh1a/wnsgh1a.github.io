@@ -26,6 +26,11 @@ sections:
         postcode: '54896'
         country: 대한민국
         country_code: KO
+      features:
+        map:
+        provider: 'google'
+        api_key: 'AIzaSyB-YxqqzjNMMXXB5jzgM3fVIUVzblszXtc'
+        zoom: 15
       coordinates:
         latitude: '35.8507949'
         longitude: '127.1263656'

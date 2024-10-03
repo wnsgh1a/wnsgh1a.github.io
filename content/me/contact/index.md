@@ -1,5 +1,5 @@
 ---
-title: Notifications
+title: Contact
 
 # Listing view
 view: community/custom_card

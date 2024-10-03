@@ -6,7 +6,7 @@ view: community/custom_card
 type: landing
 
 banner:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  caption: ''
   image: 'contact.jpg'
 
 sections:

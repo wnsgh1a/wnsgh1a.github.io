@@ -1,23 +1,13 @@
 ---
 title: Contact
 
-view: community/custom_card
-
 type: landing
-
-banner:
-  caption: ''
-  image: 'contact.jpg'
 
 sections:
   - block: contact
     content:
       title : Contact
       text: |- 
-
-      banner:
-        caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-        image: 'contact.jpg'
 
       email: wnsgh1a@naver.com
       phone: +82-10-2331-8958

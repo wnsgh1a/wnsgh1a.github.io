@@ -1,8 +1,6 @@
-![배너 이미지](/assets/media/contact.jpg)
-
 ---
 title: Contact
-
+banner: "/assets/media/contact.jpg"
 type: landing
 
 sections:

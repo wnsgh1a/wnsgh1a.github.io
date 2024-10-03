@@ -1,6 +1,8 @@
 ---
 title: Contact
-banner: "/assets/media/contact.jpg"
+banner:
+  caption: ''
+  image: 'assets/media/contact.jpg'
 type: landing
 
 sections:

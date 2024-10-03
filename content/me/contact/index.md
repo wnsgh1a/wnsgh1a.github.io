@@ -1,6 +1,8 @@
 ---
 title: Contact
 
+view: community/custom_card
+
 type: landing
 
 banner:

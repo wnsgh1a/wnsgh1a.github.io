@@ -1,6 +1,5 @@
 ---
-title: Publications
-
+title: 
 # Listing view
 #view: community/custom_compact
 

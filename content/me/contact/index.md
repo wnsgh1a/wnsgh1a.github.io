@@ -1,3 +1,5 @@
+![배너 이미지](/assets/media/contact.jpg)
+
 ---
 title: Contact
 

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 이경수
+title: 최준호
 
 # Full Name (for SEO)
-first_name: Kyungsu
-last_name: Lee
+first_name: Junho
+last_name: Choi
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 조교수
+role: 학부생
 
 # Organizations/Affiliations
 organizations:

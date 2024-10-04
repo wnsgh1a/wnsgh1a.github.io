@@ -25,6 +25,44 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+
+      - title: <span style="font-size:90%">Medical AI</span>
+        content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
+        align: center
+        background:
+          image:
+            filename: medical.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Recruit</span>
+        content: <span style="font-size:90%">Interested in MacsLAB?</span>
+        align: center
+        background:
+          image:
+            filename: recruitment.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Join Us</span>
+          text-color: '#000'
+          url: contact
+
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
+
   # - block: hero
   #   content:
   #     title: |

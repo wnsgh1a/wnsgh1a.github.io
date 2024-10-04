@@ -1,21 +1,45 @@
 ---
-# An instance of the About widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
-widget: about
+title: People
+date: 2024-06-11
 
-# Activate this widget? true/false
-active: true
+type: landing
 
-# This file represents a page section.
-headless: true
+sections:
+  - block: people
+    content:
+      title: Professor
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Professor
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
 
-# Order that this section appears on the page.
-weight: 10
-
-title: Hello
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://docs.hugoblox.com/get-started/#introduce-yourself
-author: admin
+  - block: people
+    content:
+      title: Student Researchers
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - Student
+          # - 박사과정
+          # - 석사과정
+          # - 학부연구생
+          # - Principal Investigators
+          # - Researchers
+          # - Grad Students
+          # - Administration
+          # - Visitors
+          # - Alumni
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: false
+      show_social: false
+      columns: 2
 ---

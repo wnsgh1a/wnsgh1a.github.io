@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'wnsgh1a@naver.com'
+#email: 'wnsgh1a@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

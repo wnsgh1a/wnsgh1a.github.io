@@ -7,8 +7,8 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resume
-    url: about/
+  - name: Introduction
+    url: introduction/
     weight: 20
   - name: Curriculum
     url: myschool/

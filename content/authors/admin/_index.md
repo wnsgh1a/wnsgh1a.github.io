@@ -37,7 +37,7 @@ education:
     - course: 컴퓨터공학부
       institution: 전북대학교(JBNU)
       year: 2022 - 
-    - course: 미래자동차공학부
+    - course: 미래자동차공학부(연계전공)
       institution: 전북대학교(JBNU)
       year: 2023 - 
 

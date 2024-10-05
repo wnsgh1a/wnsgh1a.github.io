@@ -1,5 +1,5 @@
 ---
-title: LDA분석
+title: 코로나 관련 네이버 뉴스LDA분석
 summary: 네이버 뉴스에서 코로나를 주제로 LDA분석
 tags:
   - BD

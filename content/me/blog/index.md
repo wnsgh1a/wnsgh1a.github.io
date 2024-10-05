@@ -16,7 +16,7 @@ sections:
         <a href="https://www.instagram.com/joooooooono/">Instagram</a><br>
         
         <i class="fa fa-pencil-square-o" aria-hidden="true"></i> 
-        <a href="https://blog.naver.com/wnsgh1a">Naver Blog</a>
+        Naver Blog: <a href="https://blog.naver.com/wnsgh1a">https://blog.naver.com/wnsgh1a</a>
         </span><br>
 
       autolink: true

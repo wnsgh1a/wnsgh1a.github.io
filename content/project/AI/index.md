@@ -1,5 +1,5 @@
 ---
-title: pygame을 이용한 맨해튼, 유클리드 방법 공부
+title: pygame을 이용한 맨해튼, 유클리드 방법
 summary: Write about your project here...
 tags:
   - AI

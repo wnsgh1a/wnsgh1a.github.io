@@ -1,6 +1,6 @@
 ---
-# An instance of the About widget.
-widget: about
+# An instance of the Gallery widget.
+widget: gallery
 
 # Activate this widget? true/false
 active: true
@@ -11,10 +11,10 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-title: Curriculum
+title: Gallery
 
-# Choose the user profile to display
-author: ""  # 빈 문자열로 설정하여 저자 정보 숨기기
-
-image: /assets/media/curriculum.png
+# List of images to display in the gallery
+images:
+  - /assets/media/curriculum.png
+  # 추가 이미지 경로를 여기에 추가하세요.
 ---

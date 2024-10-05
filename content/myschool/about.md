@@ -14,7 +14,7 @@ weight: 10
 title: Curriculum
 
 # Choose the user profile to display
-#author: ""  # 빈 문자열로 설정하여 저자 정보 숨기기
+author: ""  # 빈 문자열로 설정하여 저자 정보 숨기기
 
-image: /assets/images/curriculum.png
+image: /assets/media/curriculum.png
 ---

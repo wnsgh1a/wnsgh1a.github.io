@@ -15,7 +15,7 @@ sections:
         <i class="fab fa-instagram" aria-hidden="true"></i> 
         <a href="https://www.instagram.com/joooooooono/">Instagram</a><br>
         
-        <i class="fa fa-pencil-square-o" aria-hidden="true"></i> 
+        <i class="fa fa-pencil-square" aria-hidden="true"></i>
         <a href="https://blog.naver.com/wnsgh1a">https://blog.naver.com/wnsgh1a</a>
         </span><br>
 

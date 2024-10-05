@@ -1,6 +1,5 @@
 ---
 # An instance of the About widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
 widget: about
 
 # Activate this widget? true/false
@@ -15,9 +14,7 @@ weight: 10
 title: Curriculum
 
 # Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://docs.hugoblox.com/get-started/#introduce-yourself
-author: admin
+author: ""  # 빈 문자열로 설정하여 저자 정보 숨기기
 
-image: /assets/images/curriculun.png
+image: /assets/images/curriculum.png
 ---

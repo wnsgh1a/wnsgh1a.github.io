@@ -1,0 +1,8 @@
+baseURL = "https://wnsgh1a.github.io/wnsgh1a.github.io/"
+languageCode = "ko"
+title = "JBNU ChoiJunho"
+theme = "ananke"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5

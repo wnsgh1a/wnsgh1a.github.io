@@ -25,15 +25,7 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: 전체
-      tag: '*'
-    - name: 자료구조
-      tag: DS
-    - name: 데이터베이스
-      tag: DB
-    - name: 인공지능
-      tag: AI
+
 
 design:
   columns: '1'

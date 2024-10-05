@@ -36,18 +36,7 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-
-      - title: <span style="font-size:90%">Contents AI</span>
-        content: <span style="font-size:90%">웹툰 및 컨텐츠 적용 가능한 특성화 AI 기술 개발</span>
-        align: center
-        background:
-          image:
-            filename: contents.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
+          
       - title: <span style="font-size:90%">Recruit</span>
         content: <span style="font-size:90%">Interested in MacsLAB?</span>
         align: center

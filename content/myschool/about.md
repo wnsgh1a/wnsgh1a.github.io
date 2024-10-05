@@ -19,5 +19,5 @@ title: Curriculum
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 
-image: /assets/images/your-image.jpg
+image: /assets/images/curriculun.png
 ---

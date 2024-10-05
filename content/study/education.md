@@ -35,7 +35,7 @@ experience:
   - title: JBNU 2022-2학기
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: 전주
     date_start: '2022-09-01'
     date_end: '2022-12-21'
@@ -45,7 +45,7 @@ experience:
   - title: JBNU 2022-동기 계절학기
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: 전주
     date_start: '2022-12-23'
     date_end: '2023-01-13'
@@ -54,7 +54,7 @@ experience:
   - title: JBNU 2023-1학기
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: 전주
     date_start: '2023-03-02'
     date_end: '2023-06-20'
@@ -65,7 +65,7 @@ experience:
   - title: JBNU 2023-2학기
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: 전주
     date_start: '2023-09-01'
     date_end: '2023-12-22'
@@ -77,7 +77,7 @@ experience:
   - title: JBNU 2024-1학기
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: 전주
     date_start: '2024-03-04'
     date_end: '2024-06-21'

@@ -1,10 +1,6 @@
 ---
-type: widget_page
-active: true
-headless: false
-weight: 10
-title: Gallery
-
-images:
-  - /assets/media/curriculum.png
+title: "Image Display"
+date: 2024-10-05
 ---
+
+![Curriculum Image](/assets/media/curriculum.png)

@@ -13,7 +13,7 @@ sections:
         <a href="https://github.com/wnsgh1a/wnsgh1a.github.io">GitHub</a><br>
         
         <i class="fab fa-instagram" aria-hidden="true"></i> 
-        Instagram: <a href="https://www.instagram.com/joooooooono/">https://www.instagram.com/joooooooono/</a><br>
+        <a href="https://www.instagram.com/joooooooono/">https://www.instagram.com/joooooooono/>instagram</a><br>
         
         Naver Blog: <a href="https://blog.naver.com/wnsgh1a">https://blog.naver.com/wnsgh1a</a>
         </span><br>

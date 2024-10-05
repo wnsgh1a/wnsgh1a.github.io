@@ -1,6 +1,6 @@
 ---
 title: pygame을 이용한 맨해튼, 유클리드 방법
-summary: Write about your project here...
+summary: python과 pygame을 이용한 A_Algorithm 프로젝트
 tags:
   - AI
 date: 2024-05-12

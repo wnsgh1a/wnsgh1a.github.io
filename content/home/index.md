@@ -36,7 +36,7 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-          
+
       - title: <span style="font-size:90%">Recruit</span>
         content: <span style="font-size:90%">Interested in MacsLAB?</span>
         align: center
@@ -57,7 +57,7 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
-      is_fullscreen: true
+      #is_fullscreen: true
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)

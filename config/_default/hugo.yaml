@@ -3,22 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: JBNU ChoiJunho # Website name
-baseURL: 'https://wnsgh1a.github.io/' # Website URL
-
-############################
-## PAGE OPTIONS
-############################
-
-cascade:
-  # Blog post options
-  - _target:
-      path: /post/**
-    editable: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    show_breadcrumb: true
+title: MacsLAB # Website name
+baseURL: 'https://jbnu.macs.or.kr/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -32,7 +18,8 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+build:
+  writeStats: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -44,6 +31,7 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -56,6 +44,7 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
+  publication_type: publication_types
   author: authors
 markup:
   _merge: deep
@@ -71,6 +60,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
-minify:
   _merge: deep

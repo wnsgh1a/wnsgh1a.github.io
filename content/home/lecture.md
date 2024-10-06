@@ -21,7 +21,5 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
   design:
-  title_style:
-    margin-bottom: '20px'  # 제목 아래에 간격 추가
 
 ---

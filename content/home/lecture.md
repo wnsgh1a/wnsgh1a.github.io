@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 
-headless: true
+headless: false
 
 weight: 30
 
@@ -19,8 +19,5 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
-
-title_style:
-  margin-bottom: '20px'  # 제목과 아래 콘텐츠 사이 간격 추가
 
 ---

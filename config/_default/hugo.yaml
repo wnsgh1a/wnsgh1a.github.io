@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: JBNU ChoiJunho # Website name
-baseURL: 'https://wnsgh1a.github.io/' # Website URL
+baseURL: 'https://jbnu.wnsgh1a.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS

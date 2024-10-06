@@ -1,4 +1,4 @@
 ---
-title: 웹서비스설계
+title: Web Service Design
 show_date: false
 ---

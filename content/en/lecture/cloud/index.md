@@ -1,4 +1,4 @@
 ---
-title: 클라우드컴퓨팅
+title: Cloud Computing
 show_date: false
 ---

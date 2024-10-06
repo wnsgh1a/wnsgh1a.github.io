@@ -1,4 +1,4 @@
 ---
-title: 전공진로설계
+title: Major Career Design
 show_date: false
 ---

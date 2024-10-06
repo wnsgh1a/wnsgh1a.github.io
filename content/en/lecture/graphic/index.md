@@ -1,4 +1,4 @@
 ---
-title: 컴퓨터그래픽스
+title: Computer graphics
 show_date: false
 ---

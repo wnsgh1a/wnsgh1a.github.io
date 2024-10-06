@@ -1,4 +1,4 @@
 ---
-title: 머신러닝
+title: Machine Learning
 show_date: false
 ---

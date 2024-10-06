@@ -2,7 +2,6 @@
 title: 코로나 관련 네이버 뉴스 LDA분석
 summary: 네이버 뉴스에서 코로나를 주제로 LDA분석
 tags:
-  - BD
 date: 2023-06-15
 ---
 

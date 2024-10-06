@@ -19,5 +19,6 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
+  show_date: false
 
 ---

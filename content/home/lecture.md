@@ -3,9 +3,9 @@ widget: portfolio
 
 headless: true
 
-weight: 20
+weight: 30
 
-title: '이번학기 듣는 강의'
+title: '강의'
 subtitle: ''
 
 content:

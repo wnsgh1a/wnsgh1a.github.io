@@ -17,7 +17,11 @@ content:
 design:
   columns: '2'
   view: masonry
-  flip_alt_rows: false
+  flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
+  design:
+  title_style:
+    margin-bottom: '20px'  # 제목 아래에 간격 추가
+
 ---

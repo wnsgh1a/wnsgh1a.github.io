@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Image"
+title: ""
 date: 2024-10-05
 ---
 

@@ -6,7 +6,6 @@ headless: true
 weight: 30
 
 title: '강의'
-subtitle: ''
 
 content:
   page_type: lecture

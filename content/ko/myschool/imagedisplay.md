@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2024-10-05
+date: 2024-10-06
 ---
 
 <img src="/static/uploads/curri.png" alt="Curriculum Image" style="max-width: 100%; height: auto;">

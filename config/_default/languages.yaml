@@ -11,6 +11,7 @@ ko:
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en
+  contentDir: content/en
   #contentDir: content
 #  title: Chinese website title...
 #  params:

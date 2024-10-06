@@ -25,13 +25,10 @@ organizations:
 bio: 
 
 interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
-
+  - 개발
+  - 인공지능
+  - 기계학습
+  - 취업
 education:
   courses:
     - course: 컴퓨터공학부

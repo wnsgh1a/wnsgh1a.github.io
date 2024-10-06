@@ -16,12 +16,12 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Student'
+    org_name: 'JBNU ChoiJunho'
+    description: 'Introduce ChoiJunho to world'
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-S5XGD71EGM'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''

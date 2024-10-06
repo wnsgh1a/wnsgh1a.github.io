@@ -5,7 +5,7 @@ headless: true
 
 weight: 30
 
-title: '강의'
+title: 'Lecture(this semester)'
 
 content:
   page_type: lecture

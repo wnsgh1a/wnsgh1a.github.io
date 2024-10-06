@@ -5,7 +5,7 @@ headless: true
 
 weight: 20
 
-title: '프로젝트'
+title: '이번학기 듣는 강의'
 subtitle: ''
 
 content:
@@ -15,7 +15,7 @@ content:
 
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}

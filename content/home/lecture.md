@@ -9,7 +9,7 @@ title: '이번학기 듣는 강의'
 subtitle: ''
 
 content:
-  page_type: project
+  page_type: lecture
 
   filter_default: 0
 

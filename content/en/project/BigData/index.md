@@ -1,15 +1,15 @@
 ---
-title: 코로나 관련 네이버 뉴스 LDA분석
-summary: 네이버 뉴스에서 코로나를 주제로 LDA분석
+title: LDA Analysis of Naver News Related to Corona
+summary: Naver News analyzed LDA on the topic of Corona
 tags:
 date: 2023-06-15
 ---
 
-감성 분류 모델을 이용하여 네이버 뉴스에서 크롤링한 ‘코로나’ 관련 텍스트에 대해 감성을 분석
+Using an emotional classification model, we analyze the sensitivity of the text related to "Corona" crawled by Naver News
 
 
-• ‘네이버 API를 이용한 크롤링’으로 네이버 뉴스를 크롤링하여 텍스트 데이터를 수집
+• Collect text data by crawling Naver news with 'crawling using Naver API'
 
-• 최근 1,000개의 뉴스가 크롤링되어 저장된 json 파일을 생성
+• 1,000 recent news crawled to create a saved json file
 
-• 예제소스로 제공하는 ‘코로나_naver_news.json’ 파일을 이용해도 됨
+• You can use the file 'Corona_naver_news.json' provided as an example source

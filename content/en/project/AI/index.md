@@ -1,11 +1,11 @@
 ---
-title: pygame을 이용한 맨해튼, 유클리드 방법
-summary: python과 pygame을 이용한 A_Algorithm 프로젝트
+title: The Euclidean, Manhattan Method Using Pygame
+summary: A_Algorithm project using python and pygame
 date: 2024-05-12
 ---
 
-python과 pygame을 이용한 A_Algorithm 프로젝트
+A_Algorithm project using python and pygame
 
-시작점과 끝점을 정해놓고 랜덤 장애물을 설치한다.
+Set the start and end points and install random obstacles.
 
-맨해튼 방법과 유클리드 방법을 이용해 최단거리를 찾고 그 경로를 표시한다.
+Use the Manhattan method and Euclidean method to find the shortest distance and indicate its path.

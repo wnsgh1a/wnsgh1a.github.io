@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 
-headless: false
+headless: true
 
 weight: 30
 
@@ -14,7 +14,7 @@ content:
 
 
 design:
-  columns: '2'
+  columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
